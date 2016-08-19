@@ -1,0 +1,6 @@
+tomcat=D:\\Software\\apache-tomcat-7.0.65
+tomcat.deploy=${tomcat}/webapps
+tomcat.bin=${tomcat}/bin
+tomcat.manager.url=http://localhost:8080/
+tomcat.manager.username=tomcat
+tomcat.manager.password=s3cret
